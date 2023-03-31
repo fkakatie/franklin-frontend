@@ -1,9 +1,9 @@
-# Your Project's Title...
+# Franklin Frontend
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--franklin-frontend--fkakatie.hlx.page/
+- Live: https://main--franklin-frontend--fkakatie.hlx.live/
 
 ## Installation
 
